@@ -45,6 +45,12 @@ computer or a friend. The aim of the game is to live longer than your
 opponent. To do that, avoid running into a wall, your own tail and
 that of your opponent.
 
+%description -l pl.UTF-8
+KSnakeDuel jest prostym klonem Trona. Możesz grać w KSnakeDuela
+przeciwko komputerowi lub przyjacielowi. Celem gry jest przeżyć
+dłużej niż przeciwnik. Aby tego dokonać, unikaj ścian, własnego ogona
+jak i ogona oponenta.
+
 %prep
 %setup -q -n %{kaname}-%{version}
 
